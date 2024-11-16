@@ -1,6 +1,6 @@
 # Clash Meta for Android
 
-[Clash Meta for Android](https://tagcloud.lanzouw.com/io2u02b85x8d)，Clash Meta for Android是基于开源代理软件项目Clash Meta的安卓适配版本，功能强大且支持多种代理协议，如Shadowsocks(SS)、ShadowsocksR(SSR)、Socks、Snell、V2Ray、Trojan等代理协议。
+[Clash Meta for Android](https://tagcloud.lanzouw.com/io2u02b85x8d)，是基于开源代理软件项目Clash Meta的安卓适配版本，功能强大且支持多种代理协议，如Shadowsocks(SS)、ShadowsocksR(SSR)、Socks、Snell、V2Ray、Trojan等代理协议。
 
 ---
 **注意**：
