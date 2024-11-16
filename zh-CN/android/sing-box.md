@@ -1,6 +1,6 @@
 # Singbox
 
-[Singbox](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)，它一个新的通用跨平台代理软件客户端，拥有更多新特性，并且是目前少有同时支持 iOS 和 Apple TV 并且免费的代理应用，支持 Shadowsocks 、 Vmess 、 Trojan 、 Hysteria 2 等协议。
+[Singbox](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)，它是一个新的通用跨平台代理软件客户端，拥有更多新特性，并且是目前少有同时支持 iOS 和 Apple TV 并且免费的代理应用，支持 Shadowsocks 、 Vmess 、 Trojan 、 Hysteria 2 等协议。
 
 ---
 **注意**：
