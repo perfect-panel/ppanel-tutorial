@@ -18,7 +18,7 @@
 ![图五](clash-verge-05.png)
 ![图六](clash-verge-06.jpg)
 ##### 更新配置
-
+![图七](clash-verge-07.png)
 ---
 
 最新更新于 2024.11.16
