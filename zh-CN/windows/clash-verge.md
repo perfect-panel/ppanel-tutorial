@@ -16,6 +16,7 @@
 ![图三](clash-verge-03.png)
 ![图四](clash-verge-04.png)
 ![图五](clash-verge-05.png)
+![图六](clash-verge-06.jpg)
 ##### 更新配置
 
 ---
