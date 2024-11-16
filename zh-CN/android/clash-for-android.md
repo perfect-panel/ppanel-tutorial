@@ -1,2 +1,0 @@
-# Clash for Android
-
