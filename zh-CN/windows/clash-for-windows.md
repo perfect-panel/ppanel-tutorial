@@ -13,12 +13,12 @@
 
 ### 使用教程：
 ##### 导入配置
-![图三](clash-verge-03.png)
-![图四](clash-verge-04.png)
-![图五](clash-verge-05.png)
-![图六](clash-verge-06.jpg)
+![图三](clash-for-Windows-03.png)
+![图四](clash-for-Windows-04.png)
+![图五](clash-for-Windows-05.png)
+![图六](clash-for-Windows-06.png)
 ##### 更新配置
-![图七](clash-verge-07.png)
+![图七](clash-for-Windows-07.png)
 ---
 
 最新更新于 2024.11.16
