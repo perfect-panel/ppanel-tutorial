@@ -8,8 +8,7 @@
 - `系统要求：Windows 7 及以上（32/64-bit）`
 - `设备要求：Windows PC / Tablet`
 - Windows 10 首次运行可能会提示被阻止，点击「更多信息」 - 「仍要运行」
-![图一](clash-verge-01.jpg)
-![图二](clash-verge-02.jpg)
+![图一](clash-verge-01.jpg)![图二](clash-verge-02.jpg)
 ---
 
 ### 使用教程：
