@@ -14,9 +14,9 @@
 
 ### 使用教程：
 ##### 导入配置
-![图一](Shadowrocket-01.png)
-![图二](Shadowrocket-02.png)
-![图三](Shadowrocket-03.png)
-![图四](Shadowrocket-04.png)
+![图一](shadowrocket-01.png)
+![图二](shadowrocket-02.png)
+![图三](shadowrocket-03.png)
+![图四](shadowrocket-04.png)
 ---
 最新更新于 2024.11.17
