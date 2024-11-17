@@ -4,7 +4,7 @@
 
 ## PPanel 公共教程
 
-[英文](<README (1).md>) · 中文 · [报告问题](https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose) · [请求功能](https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose)
+[英文](<README.md>) · 中文 · [报告问题](https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose) · [请求功能](https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose)
 
 [![](https://img.shields.io/github/contributors/perfect-panel/ppanel-tutorial?color=c4f042\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/graphs/contributors) [![](https://img.shields.io/github/forks/perfect-panel/ppanel-tutorial?color=8ae8ff\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/network/members) [![](https://img.shields.io/github/stars/perfect-panel/ppanel-tutorial?color=ffcb47\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/network/stargazers) [![](https://img.shields.io/github/issues/perfect-panel/ppanel-tutorial?color=ff80eb\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/issues)
 
