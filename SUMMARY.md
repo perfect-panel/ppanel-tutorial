@@ -2,7 +2,7 @@
 
 ## en-US
 
-* [Windows](README.md)
+* [Windows](en-US/windows/README.md)
   * [Clash Verge](en-US/windows/clash-verge.md)
   * [Clash for Windows](en-US/windows/clash-for-windows.md)
   * [Netch (Game/Special)](en-US/windows/netch.md)
@@ -21,7 +21,7 @@
   * [sing-box](en-US/ios-ipados/sing-box.md)
   * [Quantumult](en-US/ios-ipados/quantumult.md)
 * [Router](en-US/router.md)
-* [README](<README (1).md>)
+* [README](<README.md>)
 
 ## zh-CN
 
