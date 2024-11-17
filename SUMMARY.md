@@ -2,7 +2,7 @@
 
 ## en-US
 
-* [Windows](en-US/windows/README.md)
+* [Windows](README.md)
   * [Clash Verge](en-US/windows/clash-verge.md)
   * [Clash for Windows](en-US/windows/clash-for-windows.md)
   * [Netch (Game/Special)](en-US/windows/netch.md)
@@ -21,12 +21,12 @@
   * [sing-box](en-US/ios-ipados/sing-box.md)
   * [Quantumult](en-US/ios-ipados/quantumult.md)
 * [Router](en-US/router.md)
-* [README](README.md)
+* [README](<README (1).md>)
 
 ## zh-CN
 
 * [Windows](zh-CN/windows/README.md)
-  * [Clash Verge](zh-CN/windows/clash-verge.md)
+  * [😼 Clash Verge](zh-CN/windows/clash-verge.md)
   * [Clash for Windows](zh-CN/windows/clash-for-windows.md)
   * [Netch（游戏/特殊）](zh-CN/windows/netch.md)
 * [macOS](zh-CN/macos/README.md)

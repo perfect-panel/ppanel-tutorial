@@ -1,65 +1,17 @@
-<a name="readme-top"></a>
+# README
 
-<div align="center">
+![](https://raw.githubusercontent.com/perfect-panel/ppanel-assets/refs/heads/main/logo.svg)
 
-<img width="160" src="https://raw.githubusercontent.com/perfect-panel/ppanel-assets/refs/heads/main/logo.svg">
+## PPanel 公共教程
 
-<h1>PPanel 公共教程</h1>
+[英文](<README (1).md>) · 中文 · [报告问题](https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose) · [请求功能](https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose)
 
-[英文](./README.md)
-·
-中文
-·
-[报告问题][issues-link]
-·
-[请求功能][issues-link]
+[![](https://img.shields.io/github/contributors/perfect-panel/ppanel-tutorial?color=c4f042\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/graphs/contributors) [![](https://img.shields.io/github/forks/perfect-panel/ppanel-tutorial?color=8ae8ff\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/network/members) [![](https://img.shields.io/github/stars/perfect-panel/ppanel-tutorial?color=ffcb47\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/network/stargazers) [![](https://img.shields.io/github/issues/perfect-panel/ppanel-tutorial?color=ff80eb\&labelColor=black\&style=flat-square)](https://github.com/perfect-panel/ppanel-tutorial/issues)
 
-<!-- SHIELD GROUP -->
+### 🤝 贡献
 
-[![][github-contributors-shield]][github-contributors-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-issues-shield]][github-issues-link]
+欢迎各种类型的贡献， 如果您有兴趣贡献代码，请随时查看我们的 GitHub [问题](https://github.com/perfect-panel/ppanel-tutorial/issues) 来展示您的能力。
 
-</div>
+[![](https://img.shields.io/badge/%F0%9F%A4%AF\_pr\_welcome-%E2%86%92-ffcb47?labelColor=black\&style=for-the-badge)](https://github.com/perfect-panel/ppanel-tutorial/pulls)
 
-## 🤝 贡献
-
-欢迎各种类型的贡献，
-如果您有兴趣贡献代码，请随时查看我们的 GitHub
-[问题][github-issues-link] 来展示您的能力。
-
-[![][pr-welcome-shield]][pr-welcome-link]
-
-[![][contributors-contrib]][contributors-url]
-
-<!-- LINK GROUP -->
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[codespaces-link]: https://codespaces.new/perfect-panel/ppanel-tutorial
-[codespaces-shield]: https://github.com/codespaces/badge.svg
-[contributors-contrib]: https://contrib.rocks/image?repo=perfect-panel/ppanel-tutorial
-[contributors-url]: https://github.com/perfect-panel/ppanel-tutorial/graphs/contributors
-[github-action-release-link]: https://github.com/perfect-panel/ppanel-tutorial/actions/workflows/release.yml
-[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/perfect-panel/ppanel-tutorial/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/perfect-panel/ppanel-tutorial/actions/workflows/test.yml
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/perfect-panel/ppanel-tutorial/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-contributors-link]: https://github.com/perfect-panel/ppanel-tutorial/graphs/contributors
-[github-contributors-shield]: https://img.shields.io/github/contributors/perfect-panel/ppanel-tutorial?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/perfect-panel/ppanel-tutorial/network/members
-[github-forks-shield]: https://img.shields.io/github/forks/perfect-panel/ppanel-tutorial?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/perfect-panel/ppanel-tutorial/issues
-[github-issues-shield]: https://img.shields.io/github/issues/perfect-panel/ppanel-tutorial?color=ff80eb&labelColor=black&style=flat-square
-[github-license-link]: https://github.com/perfect-panel/ppanel-tutorial/blob/master/LICENSE
-[github-license-shield]: https://img.shields.io/github/license/perfect-panel/ppanel-tutorial?color=white&labelColor=black&style=flat-square
-[github-release-link]: https://github.com/perfect-panel/ppanel-tutorial/releases
-[github-release-shield]: https://img.shields.io/github/v/release/perfect-panel/ppanel-tutorial?style=flat-square&sort=semver&logo=github
-[github-releasedate-link]: https://github.com/perfect-panel/ppanel-tutorial/releases
-[github-releasedate-shield]: https://img.shields.io/github/release-date/perfect-panel/ppanel-tutorial?labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/perfect-panel/ppanel-tutorial/network/stargazers
-[github-stars-shield]: https://img.shields.io/github/stars/perfect-panel/ppanel-tutorial?color=ffcb47&labelColor=black&style=flat-square
-[gitpod-link]: https://gitpod.io/#https://github.com/perfect-panel/ppanel-tutorial
-[issues-link]: https://github.com/perfect-panel/ppanel-tutorial/issues/new/choose
-[pr-welcome-link]: https://github.com/perfect-panel/ppanel-tutorial/pulls
-[pr-welcome-shield]: https://img.shields.io/badge/🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
-[profile-link]: https://github.com/perfect-panel
+[![](https://contrib.rocks/image?repo=perfect-panel/ppanel-tutorial)](https://github.com/perfect-panel/ppanel-tutorial/graphs/contributors)
