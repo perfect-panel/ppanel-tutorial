@@ -21,7 +21,7 @@
   * [sing-box](en-US/ios-ipados/sing-box.md)
   * [Quantumult](en-US/ios-ipados/quantumult.md)
 * [Router](en-US/router.md)
-* [README](README.md)
+* [README](<README.md>)
 
 ## zh-CN
 
